@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\zadatak 14\zadatak 14\bin\Debug\zadatak 14.exe.config
+C:\Users\PC\source\repos\zadatak 14\zadatak 14\bin\Debug\zadatak 14.exe
+C:\Users\PC\source\repos\zadatak 14\zadatak 14\bin\Debug\zadatak 14.pdb
+C:\Users\PC\source\repos\zadatak 14\zadatak 14\obj\Debug\zadatak 14.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\zadatak 14\zadatak 14\obj\Debug\zadatak_14.Form1.resources
+C:\Users\PC\source\repos\zadatak 14\zadatak 14\obj\Debug\zadatak_14.Properties.Resources.resources
+C:\Users\PC\source\repos\zadatak 14\zadatak 14\obj\Debug\zadatak 14.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\zadatak 14\zadatak 14\obj\Debug\zadatak 14.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\zadatak 14\zadatak 14\obj\Debug\zadatak 14.exe
+C:\Users\PC\source\repos\zadatak 14\zadatak 14\obj\Debug\zadatak 14.pdb
